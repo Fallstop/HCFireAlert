@@ -1,1 +1,2 @@
-HCFireAlert
+# HCFireAlert
+Simple system to use an NodeMCU as an low-cost alerting system for an local fire alarm. It monitors the state of the fire alarm via a normally open relay, and sends out a pulse to an external web service. It's designed to interact with Uptime Kuma as its base system.
